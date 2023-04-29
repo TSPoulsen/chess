@@ -1,3 +1,6 @@
 [submodule "Game"]
-	path = Game
+	path = src/Game
 	url = git@github.com:monil-bansal/Chess.git
+[submodule "src/pgn"]
+	path = src/pgn
+	url = git@github.com:renatopp/pgnparser.git
